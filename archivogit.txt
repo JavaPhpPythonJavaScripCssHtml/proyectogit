@@ -1,2 +1,4 @@
 Archivo a agregar en el staging area.
-Modificación para el archivo en el branch primer rama
+Modificación para el archivo en el branch primer rama uno
+Mensaje de prueba para realizar el merge con el branch master.
+ 
